@@ -14,7 +14,7 @@ Projeto completo da disciplina Análise e Projetos de Sistemas 1 e 2.
 
 ---
 
-## 📋 Funcionalidades  
+## 🖥 Funcionalidades  
 - Cadastro de alunos, pagamentos, treinos, planos e funcionários  
 - Exportação de registros em Excel  
 - Emissão de fichas de treino em PDF  
