@@ -5,7 +5,7 @@ Projeto completo da disciplina Análise e Projetos de Sistemas 1 e 2.
 ## 📋 Estrutura do Trabalho
 - Parte_1 - Documentação: contém todo o levantamento e especificação do projeto, incluindo requisitos, diagramas, casos de uso, entre outros elementos que compõem a documentação detalhada do sistema.
 - Parte_2 - Códigos: reúne o desenvolvimento prático do sistema, incluindo a implementação do código em Java e os scripts do banco de dados MySQL.
-- Projeto_Final - Apresenta a versão final do sistema e do banco de dados, junto da documentação completa e manual de uso.
+- Projeto_Final - Apresenta a versão final do sistema e do banco de dados, junto da documentação final e manual de uso.
 
 ## 📋 Sobre o trabalho
 - Um sistema desktop simples desenvolvido em **Java** como parte de um **projeto acadêmico** para o curso de **Análise e Desenvolvimento de Sistemas**. O objetivo é facilitar o gerenciamento de academias, oferecendo diversas funcionalidades.
